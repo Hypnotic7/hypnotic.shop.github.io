@@ -1,0 +1,14 @@
+.body {
+  font-family: 'Josefin Sans', cursive;
+}
+.App {
+  text-align: center;
+
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');

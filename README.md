@@ -1,1 +1,0 @@
-# hypnotic.shop.github.io
