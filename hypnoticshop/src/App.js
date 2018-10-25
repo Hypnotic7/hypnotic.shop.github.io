@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 
 //COMPONENTS
 import Navigation from './components/navigation/navigation';
+import Slider from './components/slider/slider';
 
 //CSS
 import './App.css';
@@ -30,6 +31,7 @@ class App extends Component {
     return (
       <div className="App">
         <Navigation />
+        <Slider />
       </div>
     );
   }
